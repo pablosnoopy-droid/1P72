@@ -1,58 +1,59 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",CARTOON NT HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",CARTOON NT HD (clone)
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a02j&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a03l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",Disney JR
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0g1&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",Disney channel
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0i8&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 group-title="-",Claro Sports  HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0kz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a054&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",ESPN 5 HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0ix&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",ESPN 6 HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0kj&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a052&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",Tigo Sports HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a02v&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 group-title="-",HBO2 HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a00c&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",History 2
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0jp&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 group-title="-",History Channel HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0gk&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 group-title="-",Animal Planet HD
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0gq&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 group-title="-",CNN EspaÃ±ol
-http://tecnotv.club/xm4p/phpcode/ssiptv.php?c=a0gi&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png", T13
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-
-#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13
-https://m3u.cl/channel/c13.php
-
-#EXTINF:-1 tvg-id="491" tvg-name="TV Chile" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png", TV Chile
+#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+ 
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png", La Red 
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png", UCV 
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-
-#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png", Carolina TV
-https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
-
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", Mega 
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="454" tvg-name="ChileVision en vivo" tvg-logo="https://i.imgur.com/PRijvR0.png", ChileVision
+http://38.250.127.17:9800/play/a05h/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png", NTV 
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV Noticias 
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1569" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png", CHV Deportes 
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas 
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png", TVN3 
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png", T13 
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", 13 Deportes
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1198" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png", T13 Radio 
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png", 13 Cultura 
+https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png", 13 Cocina 
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png", 13 Pop 
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png", 13 Teleseries 
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1446" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png", 13 Festival 
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1448" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png", 13 Realities 
+https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png", 13 Viajes 
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png", U Chile TV 
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1152" tvg-name="UCV 2" tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png", UCV 2 
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CBSNews247.us@SD",CBS News 24/7 (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="Gloob.br@SD",Gloob (576p)
+http://45.235.0.78/Gloob/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa",BBC News (720p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
